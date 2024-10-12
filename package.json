@@ -1,6 +1,9 @@
 {
   "name": "npm_package_dmt",
   "version": "0.1.0",
+  "repository": {
+    "url": "https://github.com/dmtsolovey/npm_package_dmt_test"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
